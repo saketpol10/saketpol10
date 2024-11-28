@@ -22,20 +22,45 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300">
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  </a>
+  <!-- Jupyter Notebook -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF8300/jupyter.png" alt="Jupyter Notebook" width="50" height="50"/>
+  </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E04C37/pytorch.png" alt="PyTorch" width="50" height="50"/>
+  </a>
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  </a>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" height="50"/>
+  </a>
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
+  </a>
 </p>
 
 ---
