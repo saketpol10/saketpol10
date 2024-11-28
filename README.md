@@ -1,116 +1,98 @@
-<h1 align="center">Hi 👋, I'm Saket!</h1>
-<h3 align="center">🚀 Final Year Computer Engineering Student | AI/ML Enthusiast | Lifelong Learner</h3>
+<!-- GitHub Profile README -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200">
-</p>
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px; color: #39ff14;">
 
----
-
-### 🧐 About Me
-
-- 🎓 **Pursuing Bachelor's in Computer Engineering**  
-  at Savitribai Phule Pune University, Pune  
-- 💻 **Focused on:** AI/ML, NLP, Vision-Language Models  
-- 🔬 **Current Projects:**  
-  - 🌱 [**AyurSanvaad**](https://github.com/your-repo-link): Multi-lingual ChatBot for Ayurvedic Consultation  
-  - 📝 **Survey Paper:** Retrieval-Augmented Generation (RAG) for Ayurvedic Data  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300">
-</p>
+# 🌌 Welcome to My GitHub Profile 🌌  
+### 🚀 Exploring the Universe of Code 🚀  
 
 ---
 
-## 🚀 Tech Stack
+## 🔥 About Me
+🌟 **Name:** Saket  
+🎓 **Student of Computer Science**  
+💻 **Passionate about AI/ML and Deep Learning**  
+🌿 **Building Ayurvedic AI Solutions**  
+🌌 **Dream: To Revolutionize Healthcare with AI**
 
-<p align="center">
+---
+
+## 🚀 My Tech Stack  
+<p align="center" style="background-color: #000; padding: 10px; border-radius: 10px;">
+
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
   </a>
   <!-- Jupyter Notebook -->
-  <a href="https://jupyter.org/" target="_blank">
+  <a href="https://jupyter.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/FF8300/jupyter.png" alt="Jupyter Notebook" width="50" height="50"/>
   </a>
   <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank">
+  <a href="https://www.tensorflow.org/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
   </a>
   <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E04C37/pytorch.png" alt="PyTorch" width="50" height="50"/>
+  <a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="50" height="50"/>
   </a>
   <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
   </a>
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
   </a>
   <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="50" height="50"/>
   </a>
   <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
   </a>
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
   </a>
 </p>
 
 ---
 
-### 🌟 Achievements
+## 📊 GitHub Stats  
+<div align="center">
 
-- 📜 **Presented Seminar:**  
-  **Transformer-Based Text Abstraction via BERT**  
-- 🏆 **Math Scholarship Winner** in Middle School  
-- 🎉 Participated in Hackathons & Ideathons  
-- 🌿 **Volunteer Work:** Tree Plantation & Plogging Drives  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaketC17&show_icons=true&theme=radical&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=000000)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaketC17&layout=compact&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=000000)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&fire=FF4500&ring=00FFFF&sideNums=00FF00&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
-</p>
+</div>
 
 ---
 
-### 🔗 Let's Connect!
+## 🚀 Highlighted Projects  
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaketC17&repo=android-app-market-on-Gplay&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=000000)](https://github.com/SaketC17/android-app-market-on-Gplay)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaketC17&repo=project-football-matches&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=000000)](https://github.com/SaketC17/project-football-matches)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaketC17&repo=disney-movies-and-box-office-success&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=000000)](https://github.com/SaketC17/disney-movies-and-box-office-success)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaketC17&repo=clear-date-predictor&theme=radical&title_color=39ff14&text_color=ffffff&bg_color=000000)](https://github.com/SaketC17/clear-date-predictor)
+
+</div>
 
 ---
 
-### 🎯 Fun Fact
-💡 I’m passionate about bridging the gap between traditional knowledge and cutting-edge technology, especially in **Ayurveda and AI**!
-
+## 🌐 Let's Connect
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
+  <a href="https://www.linkedin.com/in/saket-c17/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:saket.c17@example.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/SaketC17" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-glyphs/48/39ff14/github.png" alt="GitHub" width="50" height="50"/>
+  </a>
 </p>
+
+</div>
