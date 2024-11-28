@@ -10,7 +10,7 @@
 ### 🧐 About Me
 
 - 🎓 **Pursuing Bachelor's in Computer Engineering**  
-  at Marathwada Mitra Mandal's College of Engineering, Pune  
+  at Savitribai Phule Pune University, Pune  
 - 💻 **Focused on:** AI/ML, NLP, Vision-Language Models  
 - 🔬 **Current Projects:**  
   - 🌱 [**AyurSanvaad**](https://github.com/your-repo-link): Multi-lingual ChatBot for Ayurvedic Consultation  
