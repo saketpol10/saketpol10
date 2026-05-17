@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saket Pol</h1>
-<h3 align="center">A Masters Student at Eindhoven University of Technology and a passionate ML Research and Development Enthusiast</h3>
+<h3 align="center">A Masters Student at Eindhoven University of Technology and a passionate AI Automation and ML research Enthusiast</h3>
 
 - 📝 I write articles on Medium [https://medium.com/@saketpol10/adapting-to-change-the-power-of-incremental-learning-in-machine-learning-fa4a10258eaf](https://medium.com/@saketpol10/adapting-to-change-the-power-of-incremental-learning-in-machine-learning-fa4a10258eaf)
 
