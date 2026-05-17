@@ -3,7 +3,7 @@
 
 - 📝 I write articles on Medium [https://medium.com/@saketpol10/adapting-to-change-the-power-of-incremental-learning-in-machine-learning-fa4a10258eaf](https://medium.com/@saketpol10/adapting-to-change-the-power-of-incremental-learning-in-machine-learning-fa4a10258eaf)
 
-- 💬 Ask me about **Retrieval Augmented Generation (RAG), Convolutional Neural Networks (CNNs), Containerization and Fast-API**
+- 💬 Ask me about **Retrieval Augmented Generation (RAG), Agentic AI, Containerization and Fast-API**
 
 - 📫 How to reach me **saketpol10@gmail.com**
 
